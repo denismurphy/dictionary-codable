@@ -1,7 +1,7 @@
 
 # Dictionary Codable
 
-The `DictionaryCodable` library is a lightweight utility for encoding and decoding Swift objects to and from dictionaries. This library provides a simple way to convert your Swift objects to dictionary, which makes it easy to pass them to JSON or other serialization formats.
+The `DictionaryCodable` library is a lightweight utility for encoding and decoding Swift objects to and from dictionaries. This library provides a simple way to convert your Swift objects to dictionary.
 
 ## Usage
 
