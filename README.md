@@ -40,9 +40,11 @@ let dictionary = ["name": "John Doe", "age": 30]
 let decoder = DictionaryDecoder()
 let person = try decoder.decode(Person.self, from: dictionary)
 print(person) // prints "Person(name: "John Doe", age: 30)"
+```
 
 You can also decode an array of dictionaries into an array of Swift objects using the decode method:
 
+```
 let dictionaryArray = [["name": "John Doe", "age": 30], ["name": "Jane Doe", "age": 25]]
 let decoder = DictionaryDecoder()
 let people = try decoder.decode([Person].self, from: dictionaryArray)
