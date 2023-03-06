@@ -57,7 +57,7 @@ This encoder/decoder implementation is simple and straightforward, it does not s
 
 ## Contributing
 
-We welcome contributions and suggestions for improvements to this library. If you find a bug or want to propose a new feature, please open an issue or submit a pull request.
+I welcome contributions and suggestions for improvements to this library. If you find a bug or want to propose a new feature, please open an issue or submit a pull request.
 
 ## Authors
 
