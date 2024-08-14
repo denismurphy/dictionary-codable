@@ -53,7 +53,7 @@ print(people) // prints "[Person(name: "John Doe", age: 30), Person(name: "Jane 
 
 ## Note
 
-This encoder/decoder implementation is simple and straightforward, it does not support nested or complex object structures yet.
+This encoder/decoder implementation is simple and straightforward, it does not support nested or complex object structures.
 
 ## Contributing
 
