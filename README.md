@@ -58,14 +58,6 @@ print(people) // prints "[Person(name: "John Doe", age: 30), Person(name: "Jane 
 
 This encoder/decoder implementation is simple and straightforward. It does not support nested or complex object structures.
 
-## 🤝 Contributing
-
-We welcome contributions and suggestions to improve this library! If you encounter a bug or have an idea for a new feature, please open an issue or submit a pull request.
-
-## 👨‍💻 Authors
-
-- **Denis Murphy**
-
 ## 📄 License
 
 This code is licensed under the MIT License.
